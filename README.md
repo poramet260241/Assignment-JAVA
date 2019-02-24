@@ -1,0 +1,2 @@
+# Assignment-JAVA
+Inheritance
